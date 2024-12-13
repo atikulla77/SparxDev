@@ -3,7 +3,6 @@ import logo from "../../Image/logo.png";
 
 import { HiOutlineMenuAlt3, HiOutlineMenu } from "react-icons/hi";
 import { MdLockOutline } from "react-icons/md";
-
 import { Link } from "react-scroll";
 
 function Navber() {
@@ -24,7 +23,7 @@ function Navber() {
     {
       id: 1,
       name: "How It Work",
-      link: "How It Work",
+      link: "HowItWork",
     },
     {
       id: 2,
@@ -34,7 +33,7 @@ function Navber() {
     {
       id: 3,
       name: "Our Guarantee",
-      link: "Our Guarantee",
+      link: "OurGuarantee",
     },
   ];
 
