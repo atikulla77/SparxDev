@@ -11,8 +11,8 @@ const Home = () => {
       <div className="absolute top-0 left-0 w-full h-full">
         <img src={bg} className="w-full h-full object-cover" />
       </div>
-      <div className="container h[36rem] h-[38rem] w-full flex items-start mx-auto relative ">
-        <div className="w-[100%] z-10 GeologicaFont text-black relative flex flex-col justify-center text-center pt-[7rem]">
+      <div className="container [@media(min-width:650px)]:h-[38rem] [@media(min-width:460px)]:h-[32rem] h-[29rem] w-full flex items-start mx-auto relative ">
+        <div className="w-[100%] z-10 GeologicaFont text-black relative flex flex-col justify-center text-center [@media(min-width:460px)]:pt-[7rem] pt-[6rem]">
           <h1 className="[@media(min-width:780px)]:!text-[70px] [@media(min-width:650px)]:!text-[60px] [@media(min-width:460px)]:text-[40px] text-[28px] tracking-[1px]">Filling 83b Tax Forms</h1>
           <p className="[@media(min-width:780px)]:!text-[15px] [@media(min-width:650px)]:text-[14px] [@media(min-width:460px)]:text-[13px] text-[12px] text-[#000000d1] pt-[5px] [@media(min-width:460px)]:pb-[20px] pb-[10px] [@media(min-width:460px)]:mx-0 mx-[10px]">
             We are a company that specializes in fillng 83b tax forms with<br className="[@media(min-width:380px)]:flex hidden" /> the
