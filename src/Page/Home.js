@@ -4,6 +4,7 @@ import Branding from "../Components/Home/Branding";
 import WorkProcess from "../Components/Home/WorkProcess";
 import Footer from "../Components/Footer/Footer";
 import Pricing from "../Components/Home/Pricing";
+import Guarantees from "../Components/Home/Guarantees";
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       <Branding />
       <WorkProcess />
       <Pricing />
+      <Guarantees />
       <Footer />
     </div>
   );
