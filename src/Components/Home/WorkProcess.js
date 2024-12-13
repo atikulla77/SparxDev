@@ -31,7 +31,7 @@ const WorkProcess = () => {
         <h1 className="[@media(min-width:570px)]:text-[35px] [@media(min-width:450px)]:text-[30px] text-[25px] font-[600]  Poppins">
           How It Works
         </h1>
-        <p className="text-[#000000bf] [@media(min-width:570px)]:text-[15px] [@media(min-width:480px)]:text-[14px] text-[13px] font-[400] mx-auto pt-[5px]">
+        <p className="text-[#000000bf] [@media(min-width:570px)]:text-[15px] [@media(min-width:480px)]:text-[14px] text-[12px] font-[400] mx-auto pt-[5px]">
           Maecenas blandit lobortis iaculis. Nullam mauris<br className="[@media(min-width:480px)]:hidden flex" /> mauris, feugiat id<br className="[@media(min-width:480px)]:flex hidden" />
           bibendum quis, aliquam<br className="[@media(min-width:480px)]:hidden flex" /> vestibulum ante.
         </p>
